@@ -1,0 +1,23 @@
+h1 {
+  font-family: Times New Roman;
+  font-weight: 400;
+  color: blue;
+  font-size: 200;
+  text-decoration-line: underline;
+}
+
+h2 {
+  font-family: Garamond;
+  font-weight: 200;
+  color: green;
+  font-size: 150;
+  text-decoration-line: underline;
+}
+
+body {
+  background-color: yellow;
+}
+
+p {
+  font-family: Helvetica;
+}
